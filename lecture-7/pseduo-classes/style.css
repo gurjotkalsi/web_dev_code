@@ -1,0 +1,42 @@
+/* pseudo classes  */
+div{
+    border: 5px solid black;
+    background-color: lightblue;
+}
+h1{
+    background-color: white;
+}
+
+h1:hover{
+    background-color:pink;
+} 
+
+input:focus{
+    background-color: pink;
+    border: 1px;
+border-color: blueviolet;
+}
+
+a:visited{
+    color: purple;
+}
+
+h2:active{
+    font-size: 100px;
+    border: 1px solid red ;
+}
+
+li:hover{
+    background-color: pink;
+    
+}
+ul>li:first-child{
+    color: red;
+}
+
+ul>li:last-child{
+    color: red;
+}
+ul>li:nth-child(3){
+    color: orange;
+}

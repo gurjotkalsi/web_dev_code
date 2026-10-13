@@ -1,0 +1,16 @@
+/* ul{
+    color: black;
+    font-size: 80px;
+} */
+
+ul>li{ 
+    font-size: 2em;
+     color: black;
+     background-color: lightblue;
+    border: 4px solid black;
+
+
+}
+body{
+    background-color: lightslategray;
+}

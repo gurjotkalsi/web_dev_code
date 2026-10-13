@@ -1,0 +1,9 @@
+/* psudocode */
+/* unicode */
+p::before{
+    content: '\1F60E'
+}
+
+p::after{
+    content: '\1F60E'
+}

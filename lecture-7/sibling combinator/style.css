@@ -1,0 +1,7 @@
+ol h2 {
+    border: 2 px solid brown;
+}
+
+section li+{
+    color: aqua;
+}

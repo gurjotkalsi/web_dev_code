@@ -1,0 +1,29 @@
+/* tag delector */
+
+h1{
+    color: brown;
+}
+
+/* id selector */
+#g{
+    color: aqua;
+    background-color: blue;
+}
+
+/* class selector */
+.i{
+    color: blueviolet;
+    background-color: azure;
+
+}
+
+/* attribute selector */
+a[href="hhtp:/facebook.com"]{
+    color: plum;
+}
+
+/* universal attribute */
+ *{
+    border: 2px solid red ; 
+    background-color: aquamarine;
+ }

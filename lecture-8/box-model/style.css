@@ -1,0 +1,25 @@
+div{
+    background-color: palevioletred;
+    height: 100px;
+    width: 100px;
+
+    padding: 10px;
+    border: 5px solid darkblue;
+    margin: 20px;
+    /* box-sizing: content-box; */
+    box-sizing: border-box;
+}
+
+span{
+    display: block;
+    background-color: palevioletred;
+    height: 100px;
+    width: 100px;
+
+    padding: 10px;
+    border: 5px solid darkblue;
+    margin: 20px;
+    /* box-sizing: content-box; */
+    box-sizing: border-box;
+
+}

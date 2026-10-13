@@ -1,0 +1,11 @@
+/* combinators---> */
+/* desendent combinator */
+
+/* section div{
+    border: 2px dashed red;
+} */
+
+/* child combinator */
+section>div{
+    border: 2px solid brown;
+}

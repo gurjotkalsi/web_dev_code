@@ -1,0 +1,35 @@
+/* ul>li{
+    font-size: 2em;
+} */
+
+/* ------------------------------ */
+
+/* section{
+    background-color: pink ;
+    width: 100px;
+}
+
+div{
+    background-color: lightblue;
+    width: 50%;
+} */
+
+/* ----------------------------------- */
+
+/* ul>li{
+    font-size: 2rem;
+} */
+
+/* -------------------------------- */
+
+section{
+    background-color: lightblue;
+    width: 100px;
+    width: 50vw;
+    height: 50vh;
+}
+
+div{
+    background-color: greenyellow
+  
+}

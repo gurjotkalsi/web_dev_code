@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+section{
+    border: 2px solid black;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+}
+
+div{
+    border: 2px solid black;
+    height: 200px;
+    width: 100px;
+}
+
+@media screen and (max-width: 768px){
+    section{
+        flex-direction: column;
+       justify-content: center;
+    }
+}
+
+

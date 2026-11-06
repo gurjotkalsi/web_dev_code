@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div{
+    height: 50vhvh;
+      border: 2px solid black;
+      
+   
+}
+
+h1{
+    background-color: green;
+
+}
+
+p{
+    height: 100px;
+    background-color: pink;
+}
+
+h3{
+    background-color: yellow;
+}
+
+@media screen and (max-width:576px){
+    h1{
+        background-color: yellow;
+
+    }
+    p{
+        background-color: green;
+
+    }
+    h3{
+        background-color: pink;
+    }
+}
+
+

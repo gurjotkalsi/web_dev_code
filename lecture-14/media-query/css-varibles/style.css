@@ -1,0 +1,30 @@
+:root{
+    --font-size: 50px;
+    --color: pink;   
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    border: 2px solid black;
+     color:var(--color);
+   
+
+}
+
+div1{
+     border: 2px solid black;
+    font-size:var(--font-size) ;
+ 
+}
+
+div2{
+     border: 2px solid black;
+    font-size:var(--font-size) ;
+      color:var(--color);
+ 
+}
